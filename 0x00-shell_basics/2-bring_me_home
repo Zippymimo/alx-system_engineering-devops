@@ -1,3 +1,2 @@
-usermod
--d
-
+#!/bin/bash
+ls -a
